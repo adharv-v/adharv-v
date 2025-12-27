@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adharv @adharv-v
-- 👀 I’m interested in coding , learning , dinosaurs , math ...
-- 🌱 I’m currently in junior school 
+- 👀 I’m interested in coding , learning , dinosaurs, math ...
+- 🌱 I’m currently in secondary school
 
 
 <!---
